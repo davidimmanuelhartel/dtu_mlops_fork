@@ -26,7 +26,7 @@ permalink: /
 </details>
 
 ## Course details
-
+A small manipulation
 * Course responsible
     * Postdoc [Nicki Skafte Detlefsen](https://skaftenicki.github.io/), nsde@dtu.dk
     * Professor [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/), sohau@dtu.dk
